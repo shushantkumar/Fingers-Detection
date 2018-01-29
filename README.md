@@ -1,1 +1,3 @@
-# Sign-Language-Interpreter
+# Finger Detector
+
+Tracks number of fingers
