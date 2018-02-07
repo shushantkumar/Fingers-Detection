@@ -1,3 +1,3 @@
 # Finger Detector
 
-Tracks number of fingers using Opencv
+Tracks number of fingers using Opencv using contours
